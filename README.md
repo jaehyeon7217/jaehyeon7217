@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##### - My Blog : [Go to blog](https://blog.naver.com/jhp1276)
 ##### - Solved.ac(Baekjoon Online Judge) : [Go to solved.ac](https://solved.ac/profile/jhp1276)
 ##### - 🌱 I’m currently learning Spring Boot
-##### - 💬 Ask me about : jhp1276@naver.com
+##### - 💬 Ask me : jhp1276@naver.com
 ##### - I have [정보처리기사, SQLD, 초경량비행장치 무인멀티콥터(드론) 조종자 1종]
 ##### - My Github stats
 
