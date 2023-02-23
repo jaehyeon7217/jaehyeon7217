@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 ##### - My Blog : [Go to blog](https://blog.naver.com/jhp1276)
 ##### - Solved.ac(Baekjoon Online Judge) : [Go to solved.ac](https://solved.ac/profile/jhp1276)
 ##### - 🌱 I’m currently learning Spring Boot
+##### - 🔭 I’m studying at '[SSAFY(Samsung Software Academy For Youth) 8th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)' 
 ##### - 💬 Ask me : jhp1276@naver.com
-##### - I have [정보처리기사, SQLD, 초경량비행장치 무인멀티콥터(드론) 조종자 1종, 자동차 1종 보통면허]
+##### - 😄 My major is computer engineering.
+##### - 🤔 I have [정보처리기사, SQLD, 초경량비행장치 무인멀티콥터(드론) 조종자 1종, 자동차 1종 보통면허]
 ##### - My Github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyeon7217&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
