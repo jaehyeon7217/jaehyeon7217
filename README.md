@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehyeon7217&count_bg=%2379C83D&title_bg=%23555555&icon=checkmarx.svg&icon_color=%23F7FF00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-##### - My Blog : [Go to blog](https://blog.naver.com/jhp1276)
+##### - My Blog : [Go to blog](https://blog.naver.com/jhp1276) 
 ##### - Solved.ac(Baekjoon Online Judge) : [Go to solved.ac](https://solved.ac/profile/jhp1276)
 ##### - 🌱 I’m currently learning Spring Boot
 ##### - 🔭 I’m studying at '[SSAFY(Samsung Software Academy For Youth) 8th](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)' 
