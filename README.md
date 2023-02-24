@@ -1,5 +1,5 @@
 ## Hi. I'm a Novice Developer, Park JaeHyeon 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=노력은 배신하지 않는다.)
 <!--
 **jaehyeon7217/jaehyeon7217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
