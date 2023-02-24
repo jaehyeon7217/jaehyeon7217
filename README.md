@@ -1,8 +1,9 @@
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!)
+# Hi. I'm a Novice Developer, Park JaeHyeon 👋
+
 <!--
 **jaehyeon7217/jaehyeon7217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi. I'm a Novice Developer, Park JaeHyeon 👋
+
 
 Here are some ideas to get you started:
 
