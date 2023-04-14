@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhp1276)](https://solved.ac/profile/jhp1276)
 
-![snake gif](https://github.com/JonghyeonC/JonghyeonC/blob/output/github-contribution-grid-snak
+![snake gif](https://github.com/jaehyeon7217/jaehyeon7217/blob/output/github-contribution-grid-snak)
