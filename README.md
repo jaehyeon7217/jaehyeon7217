@@ -36,35 +36,35 @@ Here are some ideas to get you started:
   
   ---
 
-###  🛠️ Teck Stack 🛠️<br><br>
+###  🛠️ Teck Stack 🛠️</br></br>
 #### Language
-  
-	<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" /> <br><br>
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /></br></br>
   
 #### Front-End
 
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" /></br></br>
   
 #### Back-End
   
-	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white" />
-  <img src="https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/mybatis-232F3E?style=flat&logo=mybatis&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white" />
+<img src="https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/mybatis-232F3E?style=flat&logo=mybatis&logoColor=white" /><br><br>
   
 #### Database
   
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /><br><br>
-  
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /><br><br>
+
 #### Infra
   
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /><br><br>
 <br><br><br><br>
   
 ### 😁 GIT STATUS 😁
