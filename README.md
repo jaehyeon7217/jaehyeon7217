@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!)
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!)
 # Hi. I'm a Novice Developer, Park JaeHyeon 👋
 
 <!--
@@ -37,3 +38,4 @@ Here are some ideas to get you started:
 
 ##### - Where is my grass
 ![snake gif](https://github.com/jaehyeon7217/jaehyeon7217/blob/output/github-contribution-grid-snake.svg)
+</
