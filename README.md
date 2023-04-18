@@ -1,5 +1,6 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!)
+  <div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome!)
 # Hi. I'm a Novice Developer, Park JaeHyeon 👋
 
 <!--
@@ -19,6 +20,10 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaehyeon7217&count_bg=%2379C83D&title_bg=%23555555&icon=checkmarx.svg&icon_color=%23F7FF00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+---
+  
+<div align="left">
+  
 ##### - My Blog : [Go to blog](https://blog.naver.com/jhp1276) 
 ##### - Solved.ac(Baekjoon Online Judge) : [Go to solved.ac](https://solved.ac/profile/jhp1276)
 ##### - 🌱 I’m currently learning Spring Boot
@@ -26,16 +31,53 @@ Here are some ideas to get you started:
 ##### - 💬 Ask me : jhp1276@naver.com
 ##### - 😄 My major is computer engineering.
 ##### - 🤔 I have [정보처리기사, SQLD, 초경량비행장치 무인멀티콥터(드론) 조종자 1종, 자동차 1종 보통면허]
-##### - My Github stats
 
+  </div>
+  
+  ---
+
+###  🛠️ Teck Stack 🛠️<br><br>
+#### Language
+  
+	<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" /> <br><br>
+  
+#### Front-End
+
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" /><br><br>
+  
+#### Back-End
+  
+	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white" />
+  <img src="https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/mybatis-232F3E?style=flat&logo=mybatis&logoColor=white" /><br><br>
+  
+#### Database
+  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /><br><br>
+  
+#### Infra
+  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /><br><br>
+<br><br><br><br>
+  
+### 😁 GIT STATUS 😁
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehyeon7217&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### 😁 Solved 😁
 
-##### - BOJ
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhp1276)](https://solved.ac/profile/jhp1276)
 
+### 😁 SNAKE 😁
 
-##### - Where is my grass
 ![snake gif](https://github.com/jaehyeon7217/jaehyeon7217/blob/output/github-contribution-grid-snake.svg)
-</
+
+</div>
