@@ -40,20 +40,11 @@ Here are some ideas to get you started:
 #### Language
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" /></br></br>
-  
-#### Front-End
-
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" /></br></br>
   
 #### Back-End
   
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=JPA&logoColor=white" />
-<img src="https://img.shields.io/badge/hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/mybatis-232F3E?style=flat&logo=mybatis&logoColor=white" /><br><br>
   
 #### Database
   
@@ -76,8 +67,5 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhp1276)](https://solved.ac/profile/jhp1276)
 
-### 😁 SNAKE 😁
-
-![snake gif](https://github.com/jaehyeon7217/jaehyeon7217/blob/output/github-contribution-grid-snake.svg)
 
 </div>
